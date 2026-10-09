@@ -2,3 +2,23 @@ venv/
 __pycache__/
 rag_db/
 
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend-react/node_modules/
+frontend-react/dist/
+
+# Personal documents
+data/*.pdf
+
+# Local databases and indexes
+chroma_db/
+
+

@@ -25,6 +25,7 @@ results = collection.query(
     n_results=3
 )
 
+
 # Combine retrieved chunks
 context = "\n".join(results['documents'][0])
 

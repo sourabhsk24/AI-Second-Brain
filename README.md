@@ -242,30 +242,6 @@ To build an AI-powered personal knowledge assistant that enables users to intera
 
 
 
-\## 📸 Screenshots
-
-
-
-\### Home Screen
-
-!\[AI Second Brain Home](screenshots/home.png)
-
-
-
-\### AI Chat Interface
-
-!\[AI Chat Interface](screenshots/chat.png)
-
-
-
-\### PDF Upload
-
-!\[PDF Upload](screenshots/pdf-upload.png)
-
-
-
-
-
 \## 👨‍💻 Author
 
 
